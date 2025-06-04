@@ -1,37 +1,201 @@
-Passo a passo:
-  (1) Identificar quais são as entradas de dados (informações que serão passadas para a gente / o programa);
-  (2) Identificar qais são as saídas de dados (informações que o nosso programa / algoritmo irá apresentar para o usuário); e
+Passo a passo: 
+  (1) identificar quais são as entradas de dados (informações que serão passadas para a gente / o programa);
+  (2) identificar quais são as saídas de dados (informações que o nosso programa / algoritmo irá apresentar para o usuário); e
   (3) Realizar o processamento (pensar em como a entrada de dados precisa ser processada para emitir a saída desejada).
 
-Q1 - Escreva um algorítmo usando linguagem natural que calcule a soma de dois números inteiros.
+Q1 - Escreva um algoritmo usando linguagem natural que calcule a soma de dois números inteiros.
 
-    Passo a passo:
-    (1) Entrada: dois números inteiros.
-    (2) Saída: Resultado da soma. destes dois números inteiros.
-    (3) Processamento: Cálculo da soma destes dois números inteiros (1).
-
-    1. Leia / Pegue os valores desses dois números;
-    2. O resultado será a soma desses dois números;
-
-Q2 - Escreva um algorítmo usando linguagem natural que calcule a soma de dois números inteiros e mostre o resultado.
-
-    Passo a passo:
+    Passo a passo: 
     (1) Entrada: dois números inteiros.
     (2) Saída: NADA.
-    (3) Processamento: Cálculo da soma destes dois números inteiros (1).
+    (3) Processamento: cálculo da soma destes dois números inteiros (1).
 
     1. Leia / Pegue os valores desses dois números;
     2. O resultado será a soma desses dois números;
-    3. Mostre o resultado dessa soma.
 
-Q3. Escreva um algorítmo usando linguagem natural que leia dois números inteiros ' a ' e ' b ', 
-calcule a soma de dois números inteiros e mostre o resultado.
-
-    Passo a passo:
-    (1) Entrada: dois números inteiros ' a ' e ' b '.
-    (2) Saída: Resultado da soma de ' a ' mais ' b '.
-    (3) Processamento: Cálculo da soma de ' a ' mais ' b '.
+Q2 - Escreva um algoritmo usando linguagem natural que calcule a soma de dois números inteiros e mostre o resultado.
+   
+    Passo a passo: 
+    (1) Entrada: dois números inteiros.
+    (2) Saída: Resultado da soma destes dois números inteiros.
+    (3) Processamento: cálculo da soma destes dois números inteiros (1).
 
     1. Leia / Pegue os valores desses dois números;
     2. O resultado será a soma desses dois números;
-    3. Mostre o resultado dessa soma.
+    3. Mostre o resultado desta soma.
+
+Q3 - Escreva um algoritmo usando linguagem natural que leia dois números inteiros 'a' e 'b',
+     calcule a soma destes números e mostre o resultado.
+    
+    Passo a passo: 
+    (1) Entrada: dois números inteiros 'a' e 'b'.
+    (2) Saída: Resultado da soma de 'a' mais 'b'.
+    (3) Processamento: cálculo da soma de 'a' mais 'b'.
+    
+    1. Leia os valores de 'a' e 'b';
+    2. O resultado será a soma de 'a' mais 'b';
+    3. Mostre o resultado desta soma.
+
+    Refinamento:
+    1. Leia os valores de [a] e [b];
+    2. O [resultado] = [a] + [b];
+    3. Mostre o [resultado].
+
+    Refinamento:
+    1. Leia [a];            read [a]            scan [b]              in [a]
+    1. Leia [b];
+    2. [resultado] = [a] + [b];
+    3. Mostre [resultado].          show [resultado]    print [resultado]      out [resultado]
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Passo a passo:
+  (1) Identificar quais são as entradas de dados;
+  (2) Identificar quais são as saídas de dados;
+  (3) Realizar processamento.
+
+Q1 -  Escreva um algoritmo usando lingugagem natural que calcule a subtração de dois números inteiros.
+
+   Passo a passo:
+   (1) Entrada: dois números inteiros.
+   (2) Saída: NADA.
+   (3) Processamento: Cálculo da subtração destes dois números inteiros. (1)
+
+   1. Leia / Pegue os valores desses dois números;
+   2. O resultado será a subtração desses dois números;
+
+Q2 - Escreva um algoritmo usando linguagem natural que calcule a subtração de dois números inteiros.
+
+   Passo a passo:
+   (1) Entrada: Dois números inteiros
+   (2) Saída: Resultado da subtração destes dois números inteiros.
+   (3) Processamento: Cálculo da subtração destes dois números inteiros. (1)
+
+   1. Leia / Pegue os valores desses dois números;
+   2. O resultado será a subtração destes dois números inteiros.
+   3. Mostre o resultado desta soma.
+
+Q3 - Escreva um algoritmo usando linguagem natural que leia dois números inteiros 'a' e 'b',
+     calcule a subtração deles em ordem e mostre o resultado.
+    
+    Passo a passo: 
+    (1) Entrada: dois números inteiros 'a' e 'b'.
+    (2) Saída: Resultado da subtração de 'a' menos 'b'.
+    (3) Processamento: cálculo da subtração de 'a' menos 'b'.
+    
+    1. Leia os valores de 'a' e 'b';
+    2. O resultado será a subtração de 'a' menos 'b';
+    3. Mostre o resultado desta subtração.
+
+    Refinamento:
+    1. Leia os valores de [a] e [b];
+    2. O [resultado] = [a] - [b];
+    3. Mostre o [resultado].
+
+    Refinamento:
+    1. Leia [a];            read [a]            scan [b]              in [a]
+    1. Leia [b];
+    2. [resultado] = [a] - [b];
+    3. Mostre [resultado].          show [resultado]    print [resultado]      out [resultado]
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Passo a passo:
+  (1) Identificar quais são as entradas de dados;
+  (2) Identificar quais são as saídas de dados;
+  (3) Realizar processamento.
+
+Q1 -  Escreva um algoritmo usando lingugagem natural que calcule a divisão de dois números inteiros.
+
+   Passo a passo:
+   (1) Entrada: dois números inteiros.
+   (2) Saída: NADA.
+   (3) Processamento: Cálculo da divisão destes dois números inteiros. (1)
+
+   1. Leia / Pegue os valores desses dois números;
+   2. O resultado será a divisão desses dois números;
+
+Q2 - Escreva um algoritmo usando linguagem natural que calcule a divisão de dois números inteiros.
+
+   Passo a passo:
+   (1) Entrada: Dois números inteiros
+   (2) Saída: Resultado da divisão destes dois números inteiros.
+   (3) Processamento: Cálculo da divisão destes dois números inteiros. (1)
+
+   1. Leia / Pegue os valores desses dois números;
+   2. O resultado será a divisão destes dois números inteiros.
+   3. Mostre o resultado desta conta.
+
+Q3 - Escreva um algoritmo usando linguagem natural que leia dois números inteiros 'a' e 'b',
+     calcule a divisão deles em ordem e mostre o resultado.
+    
+    Passo a passo: 
+    (1) Entrada: dois números inteiros 'a' e 'b'.
+    (2) Saída: Resultado da divisão de 'a' : 'b'.
+    (3) Processamento: cálculo da divisão de 'a' dividido por 'b'.
+    
+    1. Leia os valores de 'a' e 'b';
+    2. O resultado será a divisão de 'a' dividido por 'b';
+    3. Mostre o resultado desta divisão.
+
+    Refinamento:
+    1. Leia os valores de [a] e [b];
+    2. O [resultado] = [a] : [b];
+    3. Mostre o [resultado].
+
+    Refinamento:
+    1. Leia [a];            read [a]            scan [b]              in [a]
+    1. Leia [b];
+    2. [resultado] = [a] : [b];
+    3. Mostre [resultado].          show [resultado]    print [resultado]      out [resultado]
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Passo a passo:
+  (1) Identificar quais são as entradas de dados;
+  (2) Identificar quais são as saídas de dados;
+  (3) Realizar processamento.
+
+Q1 -  Escreva um algoritmo usando lingugagem natural que calcule a multiplicação de dois números inteiros.
+
+   Passo a passo:
+   (1) Entrada: dois números inteiros.
+   (2) Saída: NADA.
+   (3) Processamento: Cálculo da multiplicação destes dois números inteiros. (1)
+
+   1. Leia / Pegue os valores desses dois números;
+   2. O resultado será a multiplicação desses dois números;
+
+Q2 - Escreva um algoritmo usando linguagem natural que calcule a multiplicação de dois números inteiros.
+
+   Passo a passo:
+   (1) Entrada: Dois números inteiros
+   (2) Saída: Resultado da multiplicação destes dois números inteiros.
+   (3) Processamento: Cálculo da multiplicação destes dois números inteiros. (1)
+
+   1. Leia / Pegue os valores desses dois números;
+   2. O resultado será a multiplicação destes dois números inteiros.
+   3. Mostre o resultado desta conta.
+
+Q3 - Escreva um algoritmo usando linguagem natural que leia dois números inteiros 'a' e 'b',
+     calcule a multiplicação deles e mostre o resultado.
+    
+    Passo a passo: 
+    (1) Entrada: dois números inteiros 'a' e 'b'.
+    (2) Saída: Resultado da multiplicação de 'a' * 'b'.
+    (3) Processamento: cálculo da multiplicação de 'a' multiplicado por 'b'.
+    
+    1. Leia os valores de 'a' e 'b';
+    2. O resultado será a multiplicação de 'a' multiplicado por 'b';
+    3. Mostre o resultado desta divisão.
+
+    Refinamento:
+    1. Leia os valores de [a] e [b];
+    2. O [resultado] = [a] * [b];
+    3. Mostre o [resultado].
+
+    Refinamento:
+    1. Leia [a];            read [a]            scan [b]              in [a]
+    1. Leia [b];
+    2. [resultado] = [a] * [b];
+    3. Mostre [resultado].          show [resultado]    print [resultado]      out [resultado]
