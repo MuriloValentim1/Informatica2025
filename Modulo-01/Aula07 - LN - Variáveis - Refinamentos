@@ -73,7 +73,7 @@ Q2 - Escreva um algoritmo usando linguagem natural que calcule a subtração de 
 
    1. Leia / Pegue os valores desses dois números;
    2. O resultado será a subtração destes dois números inteiros.
-   3. Mostre o resultado desta soma.
+   3. Mostre o resultado desta subtração.
 
 Q3 - Escreva um algoritmo usando linguagem natural que leia dois números inteiros 'a' e 'b',
      calcule a subtração deles em ordem e mostre o resultado.
